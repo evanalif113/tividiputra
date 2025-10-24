@@ -50,7 +50,7 @@ export default function HomePage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-balance">Lokasi Kantor</h2>
               <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
-                Kunjungi kantor kami untuk konsultasi langsung
+                Kunjungi kantor kami untuk konsultasi dan reservasi langsung
               </p>
             </div>
             <MapCards />
